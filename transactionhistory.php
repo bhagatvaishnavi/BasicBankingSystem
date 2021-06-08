@@ -10,7 +10,7 @@
 
 </style>
 </head>
-<body>
+<body style=" background-color: #AFDDDD;" >
 
 <div class="topnav" id="myTopnav">
   <a href="index.php" >Home</a>
