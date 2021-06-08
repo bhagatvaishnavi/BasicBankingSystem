@@ -10,7 +10,7 @@
 
 </style>
 </head>
-<body style=" background-color: silver;" >
+<body style=" background-color: #AFDDDD;" >
 
 <div class="topnav" id="myTopnav">
   <a href="#home" class="active" style=" background-color: #625D5D ;">Home</a>
